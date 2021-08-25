@@ -6,7 +6,7 @@ eureka:
       defaultzone: http://localhost:8761/eureka
   instance:
     hostname: localhost
-    
+  
 microservice:
  payment-service:
    enpoints:
